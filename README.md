@@ -17,7 +17,7 @@
 Basic facial detection and recognition using OpenCV.
 </p>
 
-<img src="https://drive.google.com/file/d/1cnaN1j8RMOn0QQj7CGusxQTBEPJeD2YM/view?usp=sharing" width="100%"/>
+##<img src="https://drive.google.com/file/d/1cnaN1j8RMOn0QQj7CGusxQTBEPJeD2YM/view" width="100%"/>
 
 ## Prerequisites
 
