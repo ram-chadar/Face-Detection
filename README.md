@@ -16,8 +16,8 @@
 <p align="justify">
 Basic facial detection and recognition using OpenCV.
 </p>
-
-<img src="https://www.dropbox.com/home/ram/opencv-ram.jpg">
+<
+<img src="http://103.235.104.232:8090/samstrack/ram.jpg">
 ## Prerequisites
 
 ### Languages
